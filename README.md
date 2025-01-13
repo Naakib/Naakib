@@ -1,6 +1,7 @@
+![Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQGgG2lLHajBEw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736770738134?e=1742428800&v=beta&t=HwuQZv1h1b6cQ2PE7olmQNTpBAQwB5wU6QN4nGOW2Kg)
+
 ### Hi there 👋, I'm Naakib
 #### Software Engineer
-![Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQGgG2lLHajBEw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736770738134?e=1742428800&v=beta&t=HwuQZv1h1b6cQ2PE7olmQNTpBAQwB5wU6QN4nGOW2Kg)
 
 Hi, 👋 I’m Naakib, a Bangladeshi full-stack developer and the Co-Founder & COO of SecuredSoft. I specialize in web development, cloud solutions, and providing open-source software tools to empower entrepreneurs and help their businesses grow.
 
